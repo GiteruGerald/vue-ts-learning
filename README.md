@@ -9,10 +9,11 @@
 1. Run `npm install` to install project dependencies
 2. Start server by running `npm run serve`
 
-###S-shots
+### S-shots
 
 
-https://user-images.githubusercontent.com/28384422/207543687-65df9059-361d-4f71-80f1-5d754de8098d.mp4
+https://user-images.githubusercontent.com/28384422/207544086-0f7f6b2d-51ff-40cd-a792-33baa26f7e32.mp4
+
 
 
 
